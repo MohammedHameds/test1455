@@ -1,0 +1,34 @@
+-- Display customer full name as FullName and score for Egyptians
+
+-- Display distinct countries with non-NULL scores
+
+-- Display customers with score between 400-800, ordered by score descending
+
+-- Display top 5 customers by score with first name and score
+
+-- Display customers whose first name starts or ends with 'a'
+
+-- Display max, min, avg, and count of scores per country
+
+-- Display countries with more than 2 customers (HAVING)
+
+-- Display customers with NULL scores replaced by 0 using ISNULL
+
+-- Display avg score per country where avg > 500 (HAVING), ordered by avg descending
+
+-- Display count, avg, and total score per country, filtering non-NULL scores (WHERE), showing countries with count > 1 (HAVING), ordered by total descending
+
+---------------------------------------------------------------------------
+-- Display employees with their department names
+
+-- Display all employees with their departments, including those without a department
+
+-- Display employees with their project names and hours worked
+
+-- Display employees with their supervisor names (self join)
+
+-- Create a view showing employee full name, project name, hours, and department name
+
+-- Rank employees by salary within each department
+
+-- Display top 3 highest paid employees per department
